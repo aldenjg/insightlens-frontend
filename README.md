@@ -11,7 +11,6 @@ The frontend connects to the [InsightLens backend](https://github.com/aldenjg/in
 - **React** – Functional components with hooks
 - **Vite** – Next-gen frontend tooling
 - **Tailwind CSS** – Utility-first styling
-- **Axios** – HTTP client for API integration
 - **ESLint** – Code linting with modern config
 
 ---
